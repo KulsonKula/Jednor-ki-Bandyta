@@ -17,7 +17,7 @@
 
 <!-- O PROJEKCIE -->
 ## O projekcie
-Habit Tracker jest to gra zbudobwana na mikrokontrolerze Arduino uno jako projekt zaliczeniowy kursu "Systemy mikroprocesorowe" na Politechnice ślaskiej. 
+Jednoręki jest to gra zbudobwana na mikrokontrolerze Arduino uno jako projekt zaliczeniowy kursu "Systemy mikroprocesorowe" na Politechnice ślaskiej. 
 
 <!-- ROADMAP -->
 ## Roadmap

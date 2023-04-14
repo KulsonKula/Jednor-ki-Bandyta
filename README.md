@@ -17,7 +17,7 @@
 
 <!-- O PROJEKCIE -->
 ## O projekcie
-Jednoręki jest to gra zbudobwana na mikrokontrolerze Arduino uno jako projekt zaliczeniowy kursu "Systemy mikroprocesorowe" na Politechnice ślaskiej. 
+Jednoręki Bandyta jest to gra zbudobwana na mikrokontrolerze Arduino uno jako projekt zaliczeniowy kursu "Systemy mikroprocesorowe" na Politechnice ślaskiej. 
 
 <!-- ROADMAP -->
 ## Roadmap
